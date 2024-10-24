@@ -127,7 +127,7 @@
         display: none;
     }
 
-    .options__botão:checked~.options__rotulo>.options__item {
+    .options__buttons:checked~.options__rotulo>.options__item {
         background: var(--azul-degrade);
         color: var(--branco);
     }
